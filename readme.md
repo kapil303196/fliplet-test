@@ -31,3 +31,7 @@ To run the Project and view the answers, follow these steps:
 3. The answer along with any additional output will be displayed in the console.
 
 Feel free to explore the code and modify it according to your needs.
+
+## Google Doc
+
+[Google Document Link](https://docs.google.com/document/d/1bLV-5UUgN_j4sGrZom5gDHAjD3NQd-tz-3vQ46msvGI/edit?usp=sharing)
